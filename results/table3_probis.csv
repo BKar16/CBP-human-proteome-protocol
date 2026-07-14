@@ -1,0 +1,9 @@
+query_pocket,matched_family,example_hit,z_score,pfam,scop_fold
+6HGP (APRT),phosphoribosyltransferase,adenine PRT,4.51,PF00156,c.61.1.1
+6HGP (APRT),phosphoribosyltransferase,adenine PRT,3.85,PF00156,c.61.1.1
+6HGP (APRT),phosphoribosyltransferase,hypoxanthine-guanine PRT,,PF00156,c.61.1.1
+6HGP (APRT),phosphoribosyltransferase,xanthine PRT,,PF00156,c.61.1.1
+6HGP (APRT),phosphoribosyltransferase,uracil PRT,,PF00156,c.61.1.1
+6HGP (APRT),phosphoribosyltransferase,orotate PRT,,PF00156,c.61.1.1
+
+# Reverse run from AHK4 pocket predicted ligand: N-(furan-2-ylmethyl)-7H-purin-6-amine (kinetin), confidence score 4.68.

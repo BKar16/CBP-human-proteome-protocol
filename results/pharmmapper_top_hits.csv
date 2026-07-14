@@ -1,0 +1,10 @@
+rank_by_zprime,target,pdb,zprime_score
+1,Phenylalanine-4-hydroxylase,1DMW,5.46
+2,Cathepsin S,1MS6,4.35
+3,Caspase-1,1BMQ,3.71
+4,Phenylethanolamine N-methyltransferase,1YZ3,
+5,C-1-tetrahydrofolate synthase,1DIA,
+6,Cyclin-dependent kinase 2 (CDK2),2B54,2.95
+
+# PharmMapper job ID: 260619064905
+# Ligand supplied as Mol2/SDF (ball-and-stick) 3D format; mapped against >7000 pharmacophore models / 1627 drug targets (459 human).

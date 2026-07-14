@@ -1,0 +1,13 @@
+target,probability,notes
+Adenosine receptor A1,1.0,highest confidence tier
+Adenosine receptor A2A,1.0,highest confidence tier
+Adenosine receptor A2B,1.0,highest confidence tier
+Purine nucleoside phosphorylase,,recovered alongside adenosine receptors
+Adenosine kinase,0.995,
+CLK1,,protein kinase cluster
+CLK4,,protein kinase cluster
+CDK2,,protein kinase cluster; converges with PharmMapper hit
+DYRK1A,,protein kinase cluster
+
+# Method: fingerprint = ECFP4 (default); AUC threshold > 7; ~500 putative targets returned in total.
+# Ligand: kinetin SMILES from PubChem CID 3830.

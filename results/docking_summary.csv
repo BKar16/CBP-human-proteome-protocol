@@ -1,0 +1,4 @@
+role,target,pdb,grid_center_xyz,grid_size_angstrom,binding_energy_kcal_per_mol,key_contacts
+positive_control,AHK4/CRE1 sensor domain,3T4S,"5, 23, 27",20x20x20,-7.6,validated cytokinin receptor
+test_protein,APRT,6HGP,"-27, 2, 10",20x20x20,-6.8,"Asp127, Asp128, 131-136 loop (PRPP/PF00156 motif)"
+negative_control,DinB DNA polymerase (Q02886),TBD,"5, -6, -19",20x20x20,-5.4,

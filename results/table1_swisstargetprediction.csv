@@ -1,0 +1,8 @@
+rank,target,probability
+1,Adenosine receptor A3,0.997
+2,Adenosine receptor A1,0.855
+2,Adenosine receptor A2A,0.855
+4,Equilibrative nucleoside transporter 1 (ENT1),0.836
+5,Adenosine receptor A2B,0.795
+6,Adenosine kinase,0.34
+7,5'-nucleotidase,0.33
